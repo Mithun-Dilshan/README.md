@@ -5,7 +5,7 @@ A brief description of your project, its purpose, and key features.
 
 
 
-## Installation
+## Installa
 
 1. Clone the repository:
 
